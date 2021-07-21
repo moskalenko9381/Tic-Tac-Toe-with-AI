@@ -6,5 +6,6 @@ Commands:
     User: user
   exit
   
-Yoi can play against another user or just look at game of two AIs (of the same level or different).
+You can play against another user or just look at game of two AIs (of the same level or different).
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
